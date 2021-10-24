@@ -1,1 +1,1 @@
-![thenextbit logo](https://github.com/oezkancodes/oezkancodes/raw/master/assets/logo/thenextbit/logo_text.png "thenextbit")
+![thenextbit logo](https://github.com/oezkancodes/oezkancodes/raw/master/assets/logo/thenextbit/logo_white_text.jpg "thenextbit")
