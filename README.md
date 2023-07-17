@@ -1,7 +1,9 @@
 [![thenextbit logo](https://github.com/oezkancodes/oezkancodes/raw/master/assets/logo/thenextbit/logo_white_text.jpg "thenextbit")](https://thenextbit.de/)
 
-# Hey, my name is Özkan 👋
+# Hey, I'm Özkan! 👋
 
-I'm a Frontend Developer and Freelance Developer from Germany. I deal with the most modern web technologies to produce professional digital solutions for companies.
+I'm a passionate Frontend Developer and Freelance Developer from Germany, specializing in creating professional digital solutions for companies using the latest web technologies.
 
-You can check out my website at [thenextbit.de (EN)](https://thenextbit.de/en) | [thenextbit.de (DE)](https://thenextbit.de/).
+Get interesting insights on various topics about Jamstack, Headless CMS and modern web development at https://thenextbit.de/en/blog.
+
+Feel free to reach out to me if you have any questions, want to collaborate, or just want to say hello! 😊
